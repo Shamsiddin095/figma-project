@@ -266,6 +266,9 @@ letter-spacing: 0.12px;
     text-align: center;
     
 }
+img{
+    max-width: 100%;
+}
 .lenta_div h4{
     color: #4C545C;
 text-align: center;
@@ -365,4 +368,7 @@ letter-spacing: 0.135px;
     width: 120px;
     margin-right: 100px;
     margin-top: 70px;
+}
+@media screen and {
+    
 }
